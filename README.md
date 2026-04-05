@@ -1,1 +1,2 @@
-# odin-recipes
+This is #1 educational project from The Odin Project.
+The project provides a basic site with recipes for 3 dishes, it uses pure html with basic tags such as <h1>, <p>, <img>, <ol>, <ul>, <li>.
