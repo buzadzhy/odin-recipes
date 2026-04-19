@@ -1,0 +1,29 @@
+body {
+    background-color: hsl(50, 100%, 80%);
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+.title, .content-card {
+    background-color: hsl(100, 50%, 70%);
+    padding: 5px;
+
+}
+
+.title {
+    margin: 15px, auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.content-card {
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+
+.image {
+    border: 5px solid hsl(60, 50%, 70%);
+    /* padding: 10px; */
+}
